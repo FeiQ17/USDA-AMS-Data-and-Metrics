@@ -1,4 +1,4 @@
-# USDA-AMS Local Food Data Visualization Challenge
+#USDA-AMS Local Food Data Visualization Challenge
 Authors: Elizabeth Fraysse (Purdue University, efraysse@purdue.edu), Yi Wang (Purdue University, wang5263@purdue.edu), and Fei Qin (Arizona State University, fqin6@asu.edu)
 Faculty mentor: Dr. Cristina Connolly
 USDA AMS mentor: Maria Graziani
